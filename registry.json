@@ -1,0 +1,25 @@
+{
+  "last_updated": "2024-05-20",
+  "plugins": [
+    {
+      "id": "official-echo-bot",
+      "name": "AI Echo Bot",
+      "description": "Un bot simple para probar la conectividad del sistema.",
+      "version": "1.0.2",
+      "author": "QueAI Team Official",
+      "git_url": "https://github.com/QueAI/plugin-echo-bot.git",
+      "logo_url": "https://raw.githubusercontent.com/QueAI/plugin-echo-bot/main/assets/logo.png",
+      "category": "Testing"
+    },
+    {
+      "id": "llama3-service",
+      "name": "Llama 3 Local",
+      "description": "Servicio de inferencia local para modelos Llama 3.",
+      "version": "2.1.0",
+      "author": "QueAI Team Official",
+      "git_url": "https://github.com/QueAI/plugin-llama3.git",
+      "logo_url": "https://raw.githubusercontent.com/QueAI/plugin-llama3/main/assets/logo.png",
+      "category": "LLM"
+    }
+  ]
+}
